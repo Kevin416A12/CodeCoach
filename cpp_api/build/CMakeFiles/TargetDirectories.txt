@@ -1,0 +1,3 @@
+/home/kevin/Documentos/CodeCoach/cpp_api/build/CMakeFiles/CodeCoachAPI.dir
+/home/kevin/Documentos/CodeCoach/cpp_api/build/CMakeFiles/edit_cache.dir
+/home/kevin/Documentos/CodeCoach/cpp_api/build/CMakeFiles/rebuild_cache.dir
